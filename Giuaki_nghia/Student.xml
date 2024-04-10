@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ID>23NS064</ID>
+    <name>Trần Trọng Nghĩa</name>
+    <address>Quảng Nam</address>
+    <dateOfBirth>2005-10-10</dateOfBirth>
+
+    <ID>23NS231</ID>
+    <name>hoang Minh</name>
+    <address>da nang</address>
+    <dateOfBirth>2009-03-13</dateOfBirth>
+
+</student>
